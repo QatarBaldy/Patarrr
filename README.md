@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Qatar but I'm usually called Patarrr</h1>
-<h3 align="center">I am a student who enjoys learning about game creation, I hope I can become a game creator too in the near future ^^</h3>
+<h1 align="left">Hi 👋/h1<>
+<h3 align="left"> I'm Qatar but I'm usually called Patarrr. I am a student who enjoys learning about game creation, I hope I can become a game creator too in the near future ^^</h3>
 
 # **About me! ^^**
 
