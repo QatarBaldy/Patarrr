@@ -1,15 +1,15 @@
-<h1 align="left">Hi 👋/h1<>
-<h3 align="left"> I'm Qatar but I'm usually called Patarrr. I am a student who enjoys learning about game creation, I hope I can become a game creator too in the near future ^^</h3>
+<h1 align="left">Hello there!👋</h1>
+<h3 align="left"> I'm Qatar Baldy but I'm usually called Patarrr. I am a student who enjoys learning about game creation, I hope I can become a game creator too in the near future. ^^</h3>
 
-# **About me! ^^**
+# **About me!**
 
 🔭 I’m currently learning about Arduino, C++, C#, Java, MySQL, HTML, CSS, JavaScript, Php, and Python.
 
-😁 I'm still a beginner so please understand :v
+😁 I'm still a beginner so please understand :v .
 
-🏫 I am a computer engineering student
+🏫 I am a computer engineering student.
 
-🤝 I like playing games, watching anime and listening to songs
+🤝 I like playing games, watching anime and listening to songs.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
