@@ -1,3 +1,5 @@
+![image alt](https://github.com/QatarBaldy/Patarrr/blob/main/Image/image.png)
+
 <h1 align="left">Hello there!👋</h1>
 <h3 align="left"> I'm Qatar Baldy but I'm usually called Patarrr. I am a student who enjoys learning about game creation, I hope I can become a game creator too in the near future. ^^</h3>
 
@@ -5,7 +7,7 @@
 
 🔭 I’m currently learning about Arduino, C++, C#, Java, MySQL, HTML, CSS, JavaScript, Php, and Python.
 
-😁 I'm still a beginner so please understand :v .
+😁 I'm still a beginner so please understand. :v
 
 🏫 I am a computer engineering student.
 
